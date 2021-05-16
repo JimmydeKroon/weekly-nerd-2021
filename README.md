@@ -1,49 +1,22 @@
-# Weekly Nerd @cmda-minor-web · 2020 - 2021
+# Artikelen
 
-Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+## Colors & webdevelopment
+https://jimmydekroon.medium.com/colors-web-development-7d6295703284
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Oriënteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+## Making code a bit more readable
+https://jimmydekroon.medium.com/making-code-a-bit-more-readable-e38d8b5ad447
 
-## Programma & Werkwijze
-Drie keer wordt er een presentatie gegeven door bedrijven uit het vakgebied. 
-Bedrijven presenteren een Case Study en er is ruimte om vragen te stellen. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-Maak van iedere presentatie sketch-notes / aantekeningen en beantwoord de vraag die bij de sessie hoort. 
-Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
-<!-- Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen. -->
+## My first experience with databases
+https://jimmydekroon.medium.com/my-first-experience-with-databases-bf58bf2fb014
 
 
-Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-[Lees hier meer over het schrijven van artikelen](#weekly-nerd-artikelen) en lees een paar voorbeelden van vorige jaren. 
-
-### Weekly Nerd #1
-
-| Vrijdag 5 Maart  |  Bedrijven |
-|---|---|
-| 14:00  | Kickoff |
-| 14:05  | [Dept](https://www.deptagency.com/nl-nl/) met [Raymond Korrel](https://www.linkedin.com/in/raymond-korrel/) Frontend Developer & [Ilayda Küçükosmanoğlu](https://www.linkedin.com/in/ilaydadept/) Interaction Designer |
-| 15:00  | [Label A](https://labela.nl) met [Gavin Ligthart](https://www.linkedin.com/in/gavinligthart/) Frontend Developer|
+# Weekly nerd vragen
 
 #### Vraag #1
 
 In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Chris Coyer om deze vraag te beantwoorden. 
 
-
-### Weekly Nerd #2
-
-| donderdag 1 april  |  Bedrijven |
-|---|---|
-| 14:00 | Intro |
-| 14:01 | [Build in Amsterdam](https://www.buildinamsterdam.com/cases) met [Fenna de Wilde](https://www.linkedin.com/in/fenna-de-wilde/) Frontend Developer|
-| 15:00 | [Triple](https://www.wearetriple.com) met [Chanel Mepschen](https://www.linkedin.com/in/chanel-mepschen-1223a9b2/) & [Shyanta Vleugel](https://www.linkedin.com/in/shyantav/) Frontend Developers |
+- Ik denk dat een van de belanrgijkste skills voor een developer bijleren is. De development wereld gaat zo snel met nieuwe ontwikkelen dat je niet kan vasthouden aan de kennis die je krijgt vanuit school. Dit betekent ook dat je toch echt geintresseerd moet zijn in het front end vak aangezien je zelf bij moet blijven en opzoek moet gaan naar nieuwe informatie. Verder denk ik dat het probleem gericht denken en oplossen belangrijk is, eerst je probleem of error goed begrijpen voordat je naar een oplossing opzoek gaat of hulp aan anderen gaat vragen. Goed kunnen googlen help natuurlijk ook.
 
 #### Vraag #2
 
@@ -52,14 +25,7 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 
 <img width="1145" alt="Adapting to Reality" src="https://user-images.githubusercontent.com/1391509/113145133-58267b80-922e-11eb-82e4-f7c8867b90ce.png">
 
-
-### Weekly Nerd #3
-
-| vrijdag 30 april  |  Bedrijven |
-|---|---|
-| 15:00 | Intro |
-| 15:01 | [Mirabeau](https://www.mirabeau.nl) met [Dave Bitter](https://www.davebitter.com/) Frontend Developer & [Alexander Munz]() Visual Designer|
-
+- Een groot gedeelte van deze niet inclusive bedrijven onstaat denk ik door het probleem van tijd en geld. In het vak human centered design ben ik bezig geweest met het maken een trello board voor Marijn, een persoon met motorische problemen. De tijd en aadacht die ik heb moeten steken in het maken van een website speciaal voor Marijn was aanzienlijk en ik denk dat als grote bedrijven hun producten compleet toegankelijk willen maken er nooit een einde komt aan dat project. Toch moet er natuurlijk zoveel mogelijk voor deze mensen worden gedaan op het gebied van toegankelijkheid en hoop ik dat de techindustrie met slimme trucjes komt om websites en apps makkelijker toegankelijk te maken. Ik zie mezelf graag in een team werken waar ruimte is om extra tijd te besteden aan de kleine details of aan dingen als toegankelijkheid. Als iedereen in een team extra tijd heeft om aan iets te werken wat hij/zij leuk vindt worden een hoop van deze toegankelijkheidsproblemen in de loop van tijd denk ik opgelost.
 
 #### Vraag #3
 
@@ -67,47 +33,12 @@ Je bent nu 3 maanden 24/7 code aan het klopppppen. Hopelijk heb je super veel ge
 
 In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan bod gekomen die een "echte" frontender ook doet: prototypen, experimenteren, ingewikkelde code, simpele code, onderzoeken, testen, lezen, documenteren, en heel veel HTML, CSS en JS, op de client en op de server. Welke onderwerpen hebben de meeste indruk op je gemaakt? Een gastspreker of een test? Een inzicht tijdens een Discord-sessie met een van de student-assistenten? Schrijf per vak wat je hebt geleerd en wat je meeneemt als frontender.
 
+De eerste vakken waren een goede opfrisser en leuk om te doen, maar vanaf vak 3 en 4 was het voor mij echt een compleet nieuwe wereld van programmeren.
 
-### Weekly Nerd Stagediving
+Progressive webapp was voor mij de eerste keer werken met een server en alhoewel ik het moeilijk had was het enorm leerzaam, vooral het laden van elementen op een website en hoeveel impact dat kan hebben op de snelheid.
 
-Aan het eind van de minor organiseren we een stagemarkt voor de studenten van de minor. 
-Dit is optioneel. 
-Je kan gesprekken voeren met bedrijven voor een afstudeerstage, of je alvast oriënteren op een afstudeerproject.
+In browsertech heb ik een enorm coole formule 1 app gebouwd met een database en enorm veel server en client side communicatie. Het was voor het eerst dat ik een complexe webapp heb kunnen bouwen en het heeft me erg veel nieuwe dingen geleerd die ik niet had kunnen leren met het maken van statische websites (zoals ik dat altijd deed). Het nadenken over toegangkelijkheid liet wel zien hoe moeilijk het is om een site echt toegangkelijk te maken voor iedereen (en vooral voor iedere browser, damn you Safari & IE).
 
-| Datum  |  Bedrijven |
-|---|---|
-| 4 Juni  | Stagediving |
-|  | Dept |
-|  | Label A |
-|  | Triple |
-|  | BIA |
-|  | Mirabeau |
-|  | Lifely |
-|  | Q42 |
-|  | Voorhoede |
-|  | GRRR |
-|  | ICAT |
-|  | Funda |
+Humand centered design is een vak dat ik nooit meer zal vergeten, vooral omdat ik waarschijnlijk nooit meer op deze manier een website mag bouwen. Een website maken specifiek voor 1 persoon is al uniek genoeg, maar als die persoon ook nog eens motorisch beperkt is en zijn computer op een compleet unieke manier gebruikt wordt het wel een heel unieke ervaring. De wekelijkse tests waren erg leuk, ook omdat je het werk van anderen kan zien en het eind resultaat is ook erg interessant geworden.
 
-
-### Weekly Nerd artikelen
-
-Drie keer schrijf je een uitgebreid artikel over een relevant web design en development onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
-
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
-
-Tip: Schrijf elke lesblok een artikel en lever dit in, dan hoef je niet alle artikelen aan het eind van de minor te schrijven en krijg je tussentijds feedback op je niveau en schrijfstijl. 
-
-
-### Voorbeelden van artikelen van voorgaande jaren
-
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
-
-
+Realtime web is voor mij denk ik het grootste 'nerd' vak en het was de eerste weken dan ook erg lastig om alle nieuwe informatie op te nemen. Ik had het mezelf moeilijk gemaakt door een step-sequencers te gaan bouwen in de browser, maar het eindresultaat is zo gaaf geworden dat ok blij ben dat ik dat heb gedaan. Sockets is een erg coole technologie en het opent zoveel opties voor apps en services, het heeft me op creatief niveau echt beinvloed aangezien er steeds minder dingen zijn die ik niet kan bouwen. Databases en sockets hebben hier het meest invloed op gehad
